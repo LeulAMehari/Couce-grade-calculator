@@ -1,0 +1,11 @@
+Edan	Barrett	70.0	45.0	59.0	F	
+Reagan	Bradshaw	96.0	97.0	88.0	A	
+Caius	Charlton	73.0	94.0	80.0	B	
+Tyrese	Mayo	88.0	61.0	36.0	D	
+Brenda	Stern	90.0	86.0	45.0	C	
+Marcus	Stern	92.0	89.0	82.0	B	
+Lisa	Trosty	82.0	85.0	89.0	B	
+Becky	Hansen	76.0	84.0	79.0	C	
+Edwin	ElMoses	56.0	67.0	49.0	F	
+
+Averages: midterm1 80.33, midterm2 78.67, final 67.44
